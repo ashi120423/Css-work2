@@ -181,7 +181,7 @@ h2 {
     padding: 35px 20px;
     border-radius: 10px;
     height: 236px;
-    
+
 }
 
 .langitem img {
@@ -299,13 +299,72 @@ button {
 }
 
 .four h2 {}
-.four p{
+
+.four p {
     color: #4a5565;
 }
 
 
 .four .btn1 {}
-.four .btn2{
+
+.four .btn2 {
     background-color: #00786f;
     color: white;
 }
+
+#footer {
+    padding: 60px 20px;
+
+}
+
+#footer .footer-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    flex-wrap: wrap;
+
+}
+
+#footer .footer-odin {
+    width: 28%;
+
+
+}
+
+#footer .footer-odin img {}
+
+#footer .footer-odin p {
+    font-size: 16px;
+    color: #4a5565;
+    margin-bottom: 20px;
+}
+
+i {
+    color: #99a1af;
+}
+
+.footer-link {}
+
+.footer-link h4 {
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: #121a2a;
+    ;
+
+}
+
+.footer-link p {
+    margin-bottom: 20px;
+    font-size: 16px;
+    color: #4a5565;
+    
+
+
+}
+.copyright{
+    border-top: 1px solid #e7e7e9;
+ 
+    padding-top: 40px;
+    font-size: 15px;
+    color: #9ca2ab;
+  };
