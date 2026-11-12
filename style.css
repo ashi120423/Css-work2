@@ -6,18 +6,19 @@
 nav {
     display: flex;
     justify-content: space-between;
-    /* padding: 20px; */
+padding: 40px;
 }
 
 .logo {}
 
-.logo .img {
+.logo a .img {
     width: 20px;
+    padding: 40px;
 }
 
 .item {
     font-size: 19px;
-    margin-top: 15px;
+    margin-top: -28px;
 
 }
 
@@ -313,7 +314,9 @@ button {
 }
 
 #footer {
-    padding: 60px 20px;
+ padding: 257px;
+ 
+
 
 }
 
